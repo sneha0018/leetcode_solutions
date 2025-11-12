@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha0018/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sneha0018/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/sneha0018/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sneha0018/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha0018/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sneha0018/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
