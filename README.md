@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sneha0018/leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sneha0018/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/sneha0018/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -36,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sneha0018/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sneha0018/leetcode_solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha0018/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sneha0018/leetcode_solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
