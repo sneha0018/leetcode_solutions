@@ -4,20 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        stack = []
-        pairs = {')': '(', ']': '[', '}': '{'}
-        
+        stack =[]
+        pairs = {')':'(',']':'[','}':'{'}
         for ch in s:
-            # If closing bracket
-            if ch in pairs:
-                # Pop from stack if exists, else assign dummy value
-                top = stack.pop() if stack else None
-                # Check mismatch
-                if pairs[ch] != top:
-                    return False
-            else:
-                # Push opening bracket to stack
+            if ch in '([{':
                 stack.append(ch)
-        
-        # If stack empty -> all brackets matched correctly
-        return len(stack) == 0
+            else:
+                if not stack:
+                    return False
+                if stack[-1]!= pairs[ch]:
+                    return False
+                stack.pop()
+        return len(stack)==0                   
