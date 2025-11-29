@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sneha0018/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sneha0018/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sneha0018/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/sneha0018/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sneha0018/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sneha0018/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
