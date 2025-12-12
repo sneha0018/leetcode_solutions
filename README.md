@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sneha0018/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sneha0018/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sneha0018/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/sneha0018/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sneha0018/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sneha0018/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sneha0018/leetcode_solutions/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/sneha0018/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/sneha0018/leetcode_solutions/tree/master/0706-design-hashmap) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sneha0018/leetcode_solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
