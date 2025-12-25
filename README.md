@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sneha0018/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sneha0018/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sneha0018/leetcode_solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sneha0018/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/sneha0018/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sneha0018/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sneha0018/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sneha0018/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sneha0018/leetcode_solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sneha0018/leetcode_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
